@@ -1,0 +1,15 @@
+.img-resize{
+  margin: 0 10px 0 0;
+  max-width: 70px;
+  float: left;
+}
+
+.like-reply {
+  display: inline;
+  color: blue;
+}
+
+.time{
+  display: inline-block;
+}
+
